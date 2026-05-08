@@ -1,9 +1,4 @@
 <br clear="both">
-
-<div align="center">
-  <img height="190" src="https://cdn.discordapp.com/avatars/1205195970569043969/d8ca21fc01954f3bce86ed0ce00bd56b.webp?size=1024"  />
-</div>
-
 ###
 
 <div align="center">
