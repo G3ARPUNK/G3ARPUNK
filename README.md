@@ -28,7 +28,7 @@
 
 ###
 
-<p align="center">I'm gearpunk from Switzerland<br><br>I am currently working as an IT apprentice.<br>I'm using python, Java, Html, JS, React.<br>Look at my profile : gearpunk.ch</p>
+<p align="center">I'm gearpunk and i'm from Switzerland<br><br>I am currently working as an IT apprentice.<br>I'm using python, Java, Html, JS, React.<br>Look at my profile : gearpunk.ch</p>
 
 ###
 
